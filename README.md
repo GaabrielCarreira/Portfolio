@@ -9,7 +9,7 @@
 
 ### **🎯 Objetivos:** 
 
-Estou em busca da minha primeira oportunidade de emprego e adquirir experiência de trabalho, desenvolver minhas habilidades profissionais e contribuir de maneira significativa para a empresa. Estou comprometido a aprender e a me adaptar rapidamente às demandas do mercado de trabalho.
+Estou em busca da minha primeira oportunidade de emprego, adquirir experiência de trabalho, desenvolver minhas habilidades profissionais e contribuir de maneira significativa para a empresa. Estou comprometido a aprender e a me adaptar rapidamente às demandas do mercado de trabalho.
 
 ---
 
@@ -48,7 +48,7 @@ Estou em busca da minha primeira oportunidade de emprego e adquirir experiência
 * Básico de Linguagem de marcação (HTML e Markdown);
 * Levantamento e análise de requisitos;
 * Virtualização de Máquinas com o programa VirtualBox;
-* Instalação de Sistemas Operacionais (Kali, Linux, MX, Windowns, Ubuntu);
+* Instalação de Sistemas Operacionais (Kali, Linux, MX, Windowns, Ubuntu...);
 * Criação de Repositórios Github;
 * Básico de CMD (windowns);
 * Conversão Binário para Decimal e vice versa;
