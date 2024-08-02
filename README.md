@@ -35,9 +35,9 @@ Estou em busca da minha primeira oportunidade de emprego, adquirir experiência 
 
 ### **🎖️ Habilidades**
 
-* Comunicação: Boa comunicação verbal;
 * Trabalho em equipe: Sabe lidar bem em trabalho em grupos sendo bem prestativo com os companheiros de trabalho;
 * Fácil aprendizagem: Possui a capacidade de aprender rápido o que é ensinado;
+* Esforço no Trabalho:: Sempre faz o possível para ajudar a equipe e o andamentto do projeto;
 
 ---
 
@@ -52,6 +52,6 @@ Estou em busca da minha primeira oportunidade de emprego, adquirir experiência 
 * Criação de Repositórios Github;
 * Básico de CMD (windowns);
 * Conversão Binário para Decimal e vice versa;
-* Métodologias ágeis de trabalho (Kanban, Extreme Programming etc...)
-* Habilidade com o uso do Canva (produções artísticas)
+* Métodologias ágeis de trabalho (Kanban, Extreme Programming etc...);
+* Habilidade com o uso do Canva (produções artísticas);
 
