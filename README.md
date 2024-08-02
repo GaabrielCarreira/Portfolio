@@ -43,15 +43,16 @@ Estou em busca da minha primeira oportunidade de emprego, adquirir experiência 
 
 ### **💻 O que já Aprendi:** 
 
-* Cabeamento de rede (Passar e fazer);
 * Linguagem de Programação Python;
 * Básico de Linguagem de marcação (HTML e Markdown);
+* Básico de Back-end (JavaScript, Node e Node Package Manager);
+* Cabeamento de rede (Passar e fazer);
+* Habilidade com o uso do Canva (produções artísticas);
+* Métodologias ágeis de trabalho (Kanban, Extreme Programming etc...);
 * Levantamento e análise de requisitos;
 * Virtualização de Máquinas com o programa VirtualBox;
 * Instalação de Sistemas Operacionais (Kali, Linux, MX, Windowns, Ubuntu...);
 * Criação de Repositórios Github;
 * Básico de CMD (windowns);
 * Conversão Binário para Decimal e vice versa;
-* Métodologias ágeis de trabalho (Kanban, Extreme Programming etc...);
-* Habilidade com o uso do Canva (produções artísticas);
 
