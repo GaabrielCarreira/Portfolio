@@ -53,4 +53,5 @@ Estou em busca da minha primeira oportunidade de emprego, adquirir experiência 
 * Básico de CMD (windowns);
 * Conversão Binário para Decimal e vice versa;
 * Métodologias ágeis de trabalho (Kanban, Extreme Programming etc...)
+* Habilidade com o uso do Canva (produções artísticas)
 
