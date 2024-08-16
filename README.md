@@ -37,17 +37,17 @@ Estou em busca da minha primeira oportunidade de emprego, adquirir experiência 
 
 * Trabalho em equipe: Sabe lidar bem em trabalho em grupos sendo bem prestativo com os companheiros de trabalho;
 * Fácil aprendizagem: Possui a capacidade de aprender rápido o que é ensinado;
-* Esforço no Trabalho:: Sempre faz o possível para ajudar a equipe e o andamentto do projeto;
+* Esforço no Trabalho: Sempre faz o possível para ajudar a equipe e o andamentto do projeto;
 
 ---
 
 ### **💻 O que já Aprendi:** 
 
+* Habilidade com o uso do Canva (produções artísticas);
 * Linguagem de Programação Python;
 * Básico de Linguagem de marcação (HTML e Markdown);
 * Básico de Back-end (JavaScript, Node e Node Package Manager);
 * Cabeamento de rede (Passar e fazer);
-* Habilidade com o uso do Canva (produções artísticas);
 * Métodologias ágeis de trabalho (Kanban, Extreme Programming etc...);
 * Levantamento e análise de requisitos;
 * Virtualização de Máquinas com o programa VirtualBox;
