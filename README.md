@@ -2,7 +2,7 @@
 <h1>
 👨🏻‍💻 Perfil - Gabriel Carreira 👨🏻‍💻
 </h1>
-<h3> Idade: 16 - Linkedin: xxx - Email: xxx@gmail.com</h3>
+<h3> Idade: 16 - Linkedin: xxx - Email: gabriel.s.carreira@gmail.com</h3>
 
 ---
 </center>
