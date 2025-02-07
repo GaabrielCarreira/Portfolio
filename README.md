@@ -37,7 +37,7 @@ Estou em busca da minha primeira oportunidade de emprego, adquirir experiência 
 
 * Trabalho em equipe: Sabe lidar bem em trabalho em grupos sendo bem prestativo com os companheiros de trabalho;
 * Fácil aprendizagem: Possui a capacidade de aprender rápido o que é ensinado;
-* Esforço no Trabalho: Sempre faz o possível para ajudar a equipe e o andamentto do projeto;
+* Esforço no Trabalho: Sempre faz o possível para ajudar a equipe e o andamento do projeto;
 
 ---
 
